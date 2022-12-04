@@ -1,0 +1,33 @@
+[{
+		"name": "AetherSX2: What you need to know about the best PS2 emulator for Android",
+		"description": "From system requirements to tips and tricks, here's what you should know about the AetherSX2 emulator.",
+		"img": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-on-Play-Store-840w-472h.jpg"
+	},
+	{
+		"name": "A brief history of AetherSX2",
+		"description": "AetherSX2 is the brainchild of one person, a developer who goes by the handle Tahlreth. The developer actually used the PCSX2 emulator as the basis for their Android-based emulator. PCSX2 is a long-running, well-established emulator on PC, so it makes sense to take advantage of the work that has gone into this program.
+                    The developer of AetherSX2 got the green light to use the PCSX2 code from the developers themselves and is licensed under the LGPL license — unlike the DamonPS2 developers, who stole the code and didn’t follow the requisite license.",
+		"img": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-on-Play-Store-840w-472h.jpg"
+	}, {
+		"name": "What are the AetherSX2 requirements?",
+		"description": "AetherSX2’s developer recommends that your phone have a Snapdragon 845-level processor or better. They specifically say that you’ll need four large CPU cores (Cortex-A75 or higher).",
+		"img": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-emulator-edit-840w-472h.jpg"
+	}, {
+		"name": "Setting up AetherSX2",
+		"description": "Got a decently powerful phone and downloaded the app? Before you can get playing, you’ll need two things. That would be a PS2 BIOS (the firmware that came with the original console) and PS2 ROMs or ISOs. We’re not linking you to either for legal reasons, but Google is your friend. Just remember that you’ll need to own the games you’re downloading, from a legal perspective.",
+		"img": "https://www.androidauthority.com/wp-content/uploads/2021/12/AetherSX2-screenshot-2021-840w-472h.jpg"
+	}, {
+		"name": "AetherSX2",
+		"description": "You can also navigate to the Three-line menu button > App Settings > BIOS to add the BIOS this way. Forgot to add your directory of games during the setup wizard? ",
+		"img": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-App-Settings-for-BIOS-and-Game-List-2-300w-650h.jpg"
+	},{
+		"name": "What about real-world AetherSX2 performance?",
+		"description": "I’ve tested the emulator on the Snapdragon 8 Gen 1-powered Vivo X80 Pro, Vivo X70 Pro Plus (Snapdragon 888 Plus), the Xiaomi Mi 9T Pro (Snapdragon 855), and the Dimensity 810-equipped Poco M4 Pro. Tested titles include Ace Combat 5: Squadron Leader, Burnout 3: Takedown, Fire Pro Wrestling Returns, Gran Turismo 4, Marvel vs Capcom 2, Shadow of the Colossus, The Simpsons Hit and Run, and WWE Smackdown: Here Comes The Pain.",
+		"img": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-with-gamepad-controller-840w-472h.jpg"
+	},
+	{
+		"name": "Tips and tricks for a better experience",
+		"description": "Being an advanced PS2 emulator, AetherSX2 can be a major challenge for smartphones. It doesn’t help that hundreds of phone models and dozens of processors are out there. Fortunately, the developer includes several features and offers plenty of tips.",
+		"img": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-settings-2-300w-667h.jpg"
+	}
+]
